@@ -1,0 +1,11 @@
+#######################
+INSTALLATION
+#######################
+
+Included in the images folder is a blank logo in addition to the logo used in the screenshot.
+
+1) Upload the business1 folder to your webserver's XOOPS_ROOT/themes/ directory
+
+2) Enable the "GW_BusinessII" theme through your site General settings for "Default Theme". *There is no Admin theme for this theme*
+
+3)Enjoy!
